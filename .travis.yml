@@ -1,5 +1,6 @@
 language: csharp
 dotnet: 2.1.4
-solution: TravisTestSolution.sln
+mono: none
+solution: TravisTestSolution/TravisTestSolution.sln
 script:
  - dotnet restore
