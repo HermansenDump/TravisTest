@@ -6,7 +6,7 @@ namespace TravisTestSolution
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(aaHello World!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
