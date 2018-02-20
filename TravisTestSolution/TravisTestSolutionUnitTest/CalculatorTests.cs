@@ -19,7 +19,7 @@ namespace TravisTestSolutionUnitTest
         {
             var uut = new Calculator();
 
-            Assert.Equal(3, uut.Add(2, 3));
+            Assert.Equal(3, uut.Add(3, 3));
         }
     }
 }
